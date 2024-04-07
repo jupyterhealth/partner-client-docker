@@ -1,0 +1,8 @@
+# Sample Initialization
+python app.py initialize
+
+# Sample Deep Link Generation
+python app.py create-deeplink --patient-id "f82659e9-752b-4c31-b534-8e6f0970ff5e"
+
+# Sample Fetch Data Request
+python app.py fetch-data --patient-id "f82659e9-752b-4c31-b534-8e6f0970ff5e"
